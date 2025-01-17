@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Diane Mae Corcino</h1>
-<h3 align="center">A fourth year college in Technological University of the Philippines</h3>
+<h1>Hi 👋, I'm Diane Mae Corcino</h1>
+<h3>A fourth year college in Technological University of the Philippines</h3>
 
 - 🌱 I’m currently learning **Frameworks and more programming language**
 
