@@ -1,5 +1,5 @@
 <h1 align="left" style="color: #ff69b4; background: black;">Hi 👋, I'm Diane Mae Corcino</h1>
-<h3 align="left" style="color: #ff69b4; background: black;">A fourth-year student at Technological University of the Philippines</h3>
+<h3 align="left" style="color: #ff69b4; background: black;">A Technological University of the Philippines graduate</h3>
 
 <div align="left" style="margin-bottom: 20px;">
   🌱 I’m currently learning <strong style="color: #ff69b4;">Frameworks and more programming languages</strong><br>
